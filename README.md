@@ -4,7 +4,7 @@ This repository serves as the main portfolio hub for my finance-oriented data an
 
 ## 📊 Planned Projects
 1. [Credit Scoring Model](https://github.com/zeynep-nurr/credit-scoring-model)
-2. [Customer Segmentation](../customer-segmentation)
+2. [Customer Segmentation](https://github.com/zeynep-nurr/customer-segmentation)
 3. [Fraud Detection](../fraud-detection)
 
 ## 🛠 Tools & Technologies
